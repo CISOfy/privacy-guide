@@ -6,7 +6,7 @@ Before knowing how to properly configure the browser, it is valuable to understa
 
 ## Fingerprints
 
-* [Panopticlick](https://panopticlick.eff.org/)
+* [Am I Unique?](https://amiunique.org/)
 * [Click](https://clickclickclick.click/)
 * [Webkay](http://webkay.robinlinus.com/)
 
@@ -42,5 +42,7 @@ One of the biggest issues on the web as it is today, is the subject of tracking.
 
 ### Actions to take
 
+* Test your browser
+  * [Panopticlick](https://panopticlick.eff.org/)
 * Firefox 
   * Use decentraleyes plugin
