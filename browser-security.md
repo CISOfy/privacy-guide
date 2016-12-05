@@ -6,6 +6,7 @@ Before knowing how to properly configure the browser, it is valuable to understa
 
 ## Fingerprints
 
+* [Panopticlick](https://panopticlick.eff.org/)
 * [Click](https://clickclickclick.click/)
 * [Webkay](http://webkay.robinlinus.com/)
 
@@ -29,8 +30,17 @@ Let's start with a quote of what WebRTC is: "WebRTC is a free, open project that
 
 This set of capabilities are programmed to make it as easy as possible to communicate. Unfortunately this may result in leaking too much information. Unfortunately many users who are behind a VPN, are still leaking their own end-point, including up to the private IP address on the network.
 
-#### What You Can Do
+#### Actions to take
 
 Disable some parts of WebRTC with a browser plugin
+* [Chrome] WebRTC Network Limiter (by Google)
 * [Chrome] WebRTC Leak Prevention addon
 
+## Tracking
+
+One of the biggest issues on the web as it is today, is the subject of tracking. Each company wants to put individual users into a small container and marking it clearly. This helps companies like Facebook and Google to track you. There are several ways to do it, including the techniques mentioned before. Most developers don't realize that they help these big companies by using services stored on content delivery networks (CDN). Those great fonts, analytics software, or some libraries? Chances are that they are free because they give the big companies valuable insights.
+
+### Actions to take
+
+* Firefox 
+  * Use decentraleyes plugin
